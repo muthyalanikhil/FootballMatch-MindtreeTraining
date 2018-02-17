@@ -1,0 +1,10 @@
+D:\Practice\FootBallMatch\FootBallMatch\bin\Debug\FootBallMatch.exe
+D:\Practice\FootBallMatch\FootBallMatch\bin\Debug\FootBallMatch.pdb
+D:\Practice\FootBallMatch\FootBallMatch\obj\x86\Debug\FootBallMatch.exe
+D:\Practice\FootBallMatch\FootBallMatch\obj\x86\Debug\FootBallMatch.pdb
+D:\Projects\Sample Programs\Practice\FootBallMatch\FootBallMatch\bin\Debug\FootBallMatch.exe
+D:\Projects\Sample Programs\Practice\FootBallMatch\FootBallMatch\bin\Debug\FootBallMatch.pdb
+D:\Projects\Sample Programs\Practice\FootBallMatch\FootBallMatch\obj\x86\Debug\FootBallMatch.csprojResolveAssemblyReference.cache
+D:\Projects\Sample Programs\Practice\FootBallMatch\FootBallMatch\obj\x86\Debug\FootBallMatch.csproj.CoreCompileInputs.cache
+D:\Projects\Sample Programs\Practice\FootBallMatch\FootBallMatch\obj\x86\Debug\FootBallMatch.exe
+D:\Projects\Sample Programs\Practice\FootBallMatch\FootBallMatch\obj\x86\Debug\FootBallMatch.pdb
